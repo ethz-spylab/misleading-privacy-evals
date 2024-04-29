@@ -1,8 +1,10 @@
 # Evaluations of Machine Learning Privacy Defenses are Misleading
 
-*[Michael Aerni](https://www.michaelaerni.com/), [Jie Zhang](https://zj-jayzhang.github.io/), [Florian Tramèr](https://floriantramer.com/) | Spy Lab (ETH Zurich)*
+*[Michael Aerni*](https://www.michaelaerni.com/), [Jie Zhang*](https://zj-jayzhang.github.io/), [Florian Tramèr](https://floriantramer.com/) | Spy Lab (ETH Zurich)*
 
-Official repository for the paper **Evaluations of Machine Learning Privacy Defenses are Misleading**.
+Official repository for the paper [**Evaluations of Machine Learning Privacy Defenses are Misleading**](https://arxiv.org/abs/2404.17399).
+
+See also our [**blog post**](https://spylab.ai/blog/misleading-privacy-evals/) and [**Twitter/X thread**](https://twitter.com/AerniMichael/status/1784946627695784361).
 
 
 ## Abstract
